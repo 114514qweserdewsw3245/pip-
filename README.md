@@ -11,5 +11,5 @@
 
 已知问题：
 -Python 必须装好,且勾选了 Add to PATH,不然 bat 跑起来会报 `不是内部或外部命令`
-- `torch`、`tensorflow` 这种几个 G 的大库别用清单批量装,容易中途断
+- `torch` `tensorflow`  这种几个 G 的大库别用清单批量装,容易中途断
 - Windows Defender 偶尔会拦自动下载的 bat,需要手动放过
